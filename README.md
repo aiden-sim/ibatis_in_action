@@ -1,1 +1,1 @@
-# IbatisInAction
+# ibatis_in_action
